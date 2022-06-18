@@ -1,4 +1,4 @@
-const sounds = ["hope", "vikram", "mudhal-nee", "mehabooba", "aribic-kuthu", "yathe-yathe"];
+const sounds = ["hope", "vikram", "mudhal-nee", "kgf mehabooba", "aribic-kuthu", "yathe-yathe"];
 
 sounds.forEach((sound) => {
   const btn = document.createElement("button");
